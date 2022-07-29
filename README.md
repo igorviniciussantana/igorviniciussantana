@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Igor, I live in Brazil.<br>I am a student of full stack technologies and I <br>trying to improve my knowledge everytime!</p>
+<p align="left">My name is Igor, I live in Brazil.<br>I am a student of full stack technologies and I am<br>trying to improve my knowledge everytime!</p>
 
 ###
 
