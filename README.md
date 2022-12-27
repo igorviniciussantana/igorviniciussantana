@@ -1,8 +1,11 @@
-<h1 align="left">Hi devs!👾</h1>
+![banner-github](https://user-images.githubusercontent.com/86114583/209675603-02962bc1-d5b8-4c43-8d3a-fb10e874f32e.png)
 
-###
 
-<p align="left">My name is Igor, I live in Brazil.<br>I am a student of full stack technologies and I am<br>trying to improve my knowledge everytime!</p>
+
+
+<h1 align="center">Hi there!👾</h1>
+
+<p align="center">My name is Igor, I live in Brazil.<br>I am a student of full stack technologies and I am<br>trying to improve my knowledge everytime!</p>
 
 ###
 
@@ -10,7 +13,7 @@
 
 ###
 
-<h2 align="left">📨 - You can contact me</h2>
+<h2 align="left">📨 - Contact Me</h2>
 
 ###
 
