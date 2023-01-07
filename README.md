@@ -40,7 +40,7 @@
 
 ###
 
-<h3>Languages</h3>
+<h3>🧑🏽‍💻 | Languages</h3>
 
 ###
 <div align="left">
